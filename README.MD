@@ -86,8 +86,8 @@ Important Notes
 - Requires internet connection for AI (OpenRouter API).
 - Ensure port 8000 is free before running.
 
-====================================================
 Developed as a Demo Project using:
 Python | FastAPI | Streamlit | LangGraph | ChromaDB | OpenRouter AI
-====================================================
+
+
 
