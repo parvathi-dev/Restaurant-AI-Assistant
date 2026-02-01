@@ -1,4 +1,3 @@
-====================================================
 Restaurant AI Assistant (FastAPI + Streamlit + LangGraph + ChromaDB)
 ====================================================
 
@@ -91,3 +90,4 @@ Important Notes
 Developed as a Demo Project using:
 Python | FastAPI | Streamlit | LangGraph | ChromaDB | OpenRouter AI
 ====================================================
+
